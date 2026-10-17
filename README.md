@@ -1,10 +1,16 @@
 Smart Canteen Management System
+
 **1. Introduction**
+
 **1.1. Project Overview**
 Project Title: Smart Canteen Management System
+
+
 The Smart Canteen Management System is an Android-based application that allows students to view the canteen menu, place food orders, and track order status, while providing the canteen staff with a simple interface to manage orders and update menu items.
+
 **1.2. Objectives**
 The main objective of this project is to automate and streamline the canteen ordering process. The system aims to minimize waiting time, reduce order errors, and improve overall efficiency. It also provides better order tracking and management for canteen staff. The expected outcome is a fully functional Android application that simplifies interaction between students and the canteen.
+
 **1.3. Scope**
 The system will allow users to browse menu items, place orders, and view order status. Canteen staff will be able to manage orders and update menu items. Online payment and delivery features are excluded in this phase to keep the scope manageable. The system will operate within a controlled academic environment.
 
@@ -29,6 +35,7 @@ Frontend: XML (Android UI)
 Backend: Java (Android)
 Database: SQLite / Room Database
 Other Tools: Android Studio, Git
+
 **4. Implementation**
 
 **4.1 Development Process**
